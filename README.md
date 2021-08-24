@@ -3,7 +3,7 @@
 - 🌱 Estudando HTML5, CSS3, JavaScript, TypeScript, React.js.
 - 👀 Interesse em: ruby, ruby on rails, vue, React native, flutter, UI/UX
 - 💬 Contate-me no email: fabioharoldo1@gmail.com
- <div>
+<div>
   <a href="https://github.com/FabioRocha231">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioRocha231&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRocha231&layout=compact&langs_count=7&theme=chartreuse-dark"/>
