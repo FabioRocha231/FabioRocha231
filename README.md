@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo ao meu mundo, me chamo Fabio Haroldo.
 
-- 🌱 Estudando HTML5, CSS3, JavaScript, TypeScript, React.js.
-- 👀 Interesse em: ruby, ruby on rails, React native, flutter, UI/UX, Golang
+- 🌱 Estudando React Native, React.js, JavaScript, TypeScript, redux, NodeJS
+- 👀 Interesse em: ruby, ruby on rails, flutter, UI/UX, Golang
 - 💬 Contate-me no email: fabioharoldo1@gmail.com
 <div>
   <a href="https://github.com/FabioRocha231">
@@ -9,14 +9,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRocha231&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" height="190px" width="200px" src="https://c.tenor.com/KIqCXouKpU0AAAAM/black-hole-beautiful.gif">
-  <img align="right" alt="Rafa-yoda" height="190px" width="200px" src="https://c.tenor.com/uK5mN7DhKk4AAAAM/abyss-black-hole.gif">
+  <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fabio-bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="Fabio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fabio-ndjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Fabio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Fabio-Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  <img align="center" alt="Fabio-Mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Fabio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fabio-NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  
+  <img align="center" alt="Fabio-Yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+  <img align="center" alt="Fabio-vsc" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+
+
 </div>
  
 ##
