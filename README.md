@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo ao meu mundo, me chamo Fabio Haroldo.
 
 - 🌱 Estudando React Native, React.js, JavaScript, TypeScript, redux, NodeJS
-- 👀 Interesse em: ruby, ruby on rails, flutter, UI/UX, Golang
+- 👀 Interesse em: flutter, Kotlin,Swift, Golang
 - 💬 Contate-me no email: fabioharoldo1@gmail.com
 <div>
   <a href="https://github.com/FabioRocha231">
