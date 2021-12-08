@@ -1,7 +1,7 @@
 Meu nome e Fabio, tenho 23 anos, atualmente tranquei minha faculdade para dar máxima atenção ao meu curso técnico de Programação de Jogos Digitais pelo Senai, onde sou vice-líder de turma. Tenho uma paixão pela docência e um conceito bem concreto sobre trabalho em equipe. Atualmente estou focado em desenvolvimento de aplicações android e ios. Estudando frameworks relacionados a javascript, como React e React Native.
 
 
-![giphy](https://user-images.githubusercontent.com/84081496/145138695-412d9352-677d-4f4f-b650-f463ef2e127b.gif)
+<div>![giphy](https://user-images.githubusercontent.com/84081496/145138695-412d9352-677d-4f4f-b650-f463ef2e127b.gif)</div>
 
 
 - 🌱 Estudando React Native, React.js, JavaScript, TypeScript, redux, NodeJS
