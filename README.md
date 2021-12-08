@@ -1,5 +1,5 @@
 Meu nome e Fabio, tenho 23 anos, atualmente tranquei minha faculdade para dar máxima atenção ao meu curso técnico de Programação de Jogos Digitais pelo Senai, onde sou vice-líder de turma. Tenho uma paixão pela docência e um conceito bem concreto sobre trabalho em equipe. Atualmente estou focado em desenvolvimento de aplicações android e ios. Estudando frameworks relacionados a javascript, como React e React Native.
-<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="380" height="329" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+<img src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="380" height="329" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 - 🌱 Estudando React Native, React.js, JavaScript, TypeScript, redux, NodeJS
 - 👀 Interesse em: flutter, Kotlin,Swift, Golang
 - 💬 Contate-me no email: fabioharoldo1@gmail.com
