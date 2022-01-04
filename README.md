@@ -4,7 +4,7 @@ Meu nome e Fabio, tenho 23 anos, atualmente tranquei minha faculdade para dar m�
 ![giphy](https://user-images.githubusercontent.com/84081496/145138695-412d9352-677d-4f4f-b650-f463ef2e127b.gif)
 
 
-- 🌱 Estudando React Native, React.js, JavaScript, TypeScript, redux, NodeJS
+- 🌱 Estudando React Native, React.js, JavaScript, TypeScript, Zustand, NodeJS
 - 👀 Interesse em: flutter, Kotlin,Swift, Golang
 - 💬 Contate-me no email: fabioharoldo1@gmail.com
 <div>
