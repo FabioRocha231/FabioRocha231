@@ -1,12 +1,24 @@
-Meu nome e Fabio, tenho 23 anos, atualmente tranquei minha faculdade para dar máxima atenção ao meu curso técnico de Programação de Jogos Digitais pelo Senai, onde sou vice-líder de turma. Tenho uma paixão pela docência e um conceito bem concreto sobre trabalho em equipe. Atualmente estou focado em desenvolvimento de aplicações android e ios. Estudando frameworks relacionados a javascript, como React e React Native.
+Desenvolvedor Front End, Atualmente me especializando em ReactJS/NextJS && Javascript/Typescript para criações de interfaces, e também aprimorando minhas softs e hardskills, como trabalho em equipe, comunicação pro-ativa e docência. Me considero uma pessoa com sede de conhecimento e aprendizado, empenhado a sempre ter diferentes pontos de vista sobre determinado assunto.
 
+quando criança/adolescente me via frustado com as técnicas empregadas pelos professores que obtive nessa caminhada, e isso despertou em min um desejo latente de disseminar meus conhecimentos empregando acima de tudo a empatia de que todo ser humano possui diversas maneiras de aprender e absorver o que lhe e ensinado.
+
+Em dezembro de 2021 tive minha oportunidade de ingressar no mercado de TI e finalmente ser recolocado. Hoje na ApexNft Brasil juntamente com o time de SmartContracts sou responsável pela criação dos sites que o time de UI/UX prototificam.
+
+Tecnologias/Paradigmas em estudo/aperfeiçoamento:
+- NextJs && ReactJs;
+- Javascript && Typescript;
+- POO && SOLID;
+
+Futuros interesses:
+-NodeJS && DenoJS;
+
+
+E-Mail: fabioharoldo1@gmail.com
+github: https://github.com/FabioRocha231
+• Inglês Técnico
 
 ![giphy](https://user-images.githubusercontent.com/84081496/145138695-412d9352-677d-4f4f-b650-f463ef2e127b.gif)
 
-
-- 🌱 Estudando React Native, React.js, JavaScript, TypeScript, Zustand, NodeJS
-- 👀 Interesse em: flutter, Kotlin,Swift, Golang
-- 💬 Contate-me no email: fabioharoldo1@gmail.com
 <div>
   <a href="https://github.com/FabioRocha231">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioRocha231&layout=compact&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
