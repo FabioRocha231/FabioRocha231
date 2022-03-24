@@ -14,7 +14,6 @@ Futuros interesses:
 
 
 E-Mail: fabioharoldo1@gmail.com
-github: https://github.com/FabioRocha231
 • Inglês Técnico
 
 ![giphy](https://user-images.githubusercontent.com/84081496/145138695-412d9352-677d-4f4f-b650-f463ef2e127b.gif)
