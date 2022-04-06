@@ -1,6 +1,6 @@
 ### Bem Vindo(a) 👋
 
-#### Sou desenvolvedor Front End JR
+#### Sou desenvolvedor Front End JR e entusiasta ao FullStack
 
 ![Javascript developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
