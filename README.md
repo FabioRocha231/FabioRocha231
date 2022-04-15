@@ -1,6 +1,15 @@
 ### Bem Vindo(a) 👋
 
-#### Sou desenvolvedor Front End JR e entusiasta ao Full Cycle
+#### Desenvolvedor Front End, Atualmente me especializando em ReactJS/NextJS && Typescript para criações de interfaces, dedico partes dos meu estudos em NodeJs com interesse em me tornar um desenvolvedor MERN.
+
+quando criança/adolescente me via frustado com as técnicas empregadas pelos professores que obtive nessa caminhada, e isso despertou em min um desejo latente de disseminar meus conhecimentos empregando acima de tudo a empatia de que todo ser humano possui diversas maneiras de aprender e absorver o que lhe e ensinado.
+
+
+Tecnologias/Paradigmas em estudo/aperfeiçoamento:
+- NextJs && ReactJs;
+- Javascript && Typescript;
+- POO && SOLID;
+- NodeJS
 
 ![Javascript developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
