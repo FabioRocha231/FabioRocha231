@@ -1,15 +1,21 @@
 ### Bem Vindo(a) 👋
 
-#### Desenvolvedor Front End, Atualmente me especializando em ReactJS/NextJS && Typescript para criações de interfaces, dedico partes dos meu estudos em NodeJs com interesse em me tornar um desenvolvedor MERN.
+#### Desenvolvedor FullStack Js, com experiecia em ReactJs, NextJs, React Native, NodeJS, Javascript, Typescript.
 
-quando criança/adolescente me via frustado com as técnicas empregadas pelos professores que obtive nessa caminhada, e isso despertou em min um desejo latente de disseminar meus conhecimentos empregando acima de tudo a empatia de que todo ser humano possui diversas maneiras de aprender e absorver o que lhe e ensinado.
+
 
 
 Tecnologias/Paradigmas em estudo/aperfeiçoamento:
-- NextJs && ReactJs;
-- Javascript && Typescript;
-- POO && SOLID;
+- NextJs
+- ReactJs
+- React native
+- Javascript
+- Typescript
+- POO 
+- SOLID
 - NodeJS
+- Wax
+- Solana
 
 ![Javascript developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
