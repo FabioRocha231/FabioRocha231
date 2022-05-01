@@ -1,6 +1,6 @@
 ### Bem Vindo(a) 👋
 
-#### Desenvolvedor FullStack Js, com experiecia em ReactJs, NextJs, React Native, NodeJS, Javascript, Typescript.
+#### Desenvolvedor Front End, com experiecia em ReactJs, NextJs, React Native, NodeJS, Javascript, Typescript.
 
 
 
