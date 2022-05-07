@@ -1,23 +1,17 @@
-### Bem Vindo(a) 👋
-
-#### Desenvolvedor Front End, com experiecia em ReactJs, NextJs, React Native, NodeJS, Javascript, Typescript.
-
+### Hi there 👋, my name is Fabio HR Filho
+#### FullStack developer MERN Stack
 
 
 
-Tecnologias/Paradigmas em estudo/aperfeiçoamento:
-- NextJs
-- ReactJs
-- React native
-- Javascript
-- Typescript
-- POO 
-- SOLID
-- NodeJS
-- Wax
-- Solana
 
-![Javascript developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+- 🔭 I’m currently working on Solana 
+
+
+
+
+
+Skills:  ReactJs | NextJs | Typescript | React Native | Styled-Components | Tailwind | NodeJs| Express | Yarn | Npm | Linux | MacOs | Wax | Solana
 
 #### Framwork and Libraries
 
@@ -35,8 +29,8 @@ Tecnologias/Paradigmas em estudo/aperfeiçoamento:
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  
 </p>
+
 
 ### Databases
 
@@ -53,24 +47,18 @@ Tecnologias/Paradigmas em estudo/aperfeiçoamento:
 </p>
 
 
-### Entre em Contato
-
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/FabioRocha231) 
-<div> 
-  <a href = "mailto:fabioharoldo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fhrfilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FabioRocha231)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fhrfilho//)  
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRocha231)](https://github.com/anuraghazra/github-readme-stats)
 
-#### GitHub Staus and Programming Language using bar
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FabioRocha231)  
 
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabioRocha231&theme=solarized_dark)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRocha231&show_icons=true&theme=merko)](https://github.com/FabioRocha231/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/FabioRocha231)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FabioRocha231)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=FabioRocha231)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/FabioRocha231)
+![Profile views](https://gpvc.arturio.dev/FabioRocha231)  
