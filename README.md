@@ -69,7 +69,7 @@ Tecnologias/Paradigmas em estudo/aperfeiçoamento:
 #### GitHub Staus and Programming Language using bar
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabioRocha231&theme=solarized_dark)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRocha231&show_icons=true&theme=cobalt&layout=compact)](https://github.com/FabioRocha231/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRocha231&show_icons=true&theme=cobalt)](https://github.com/FabioRocha231/github-readme-stats)
 
 
 
