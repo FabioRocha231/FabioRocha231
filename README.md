@@ -71,9 +71,5 @@ Tecnologias/Paradigmas em estudo/aperfeiçoamento:
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabioRocha231&theme=solarized_dark)](#)
 <img align="center" src="https://github-readme-stats.vercel.app/api?
 
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FabioRocha231&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> 
-username=FabioRocha231&show_icons=truecount_private=true&theme=cobalt&hide_border=true" alt="My github stats" />
-
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRocha231&layout=&theme=cobalt&hide_border=true" />  -->
 
 ![Profile views](https://gpvc.arturio.dev/FabioRocha231)
