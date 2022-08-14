@@ -47,7 +47,7 @@ Skills:  ReactJs | NextJs | Typescript | React Native | Styled-Components | Tail
 </p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FabioRocha231)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fhrfilho//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' color='#fff' height='40'>](https://github.com/FabioRocha231)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' color='#fff' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fhrfilho//)  
 
 
 
