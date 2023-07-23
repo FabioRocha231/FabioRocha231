@@ -32,15 +32,6 @@ If you're seeking a dynamic and forward-thinking Full Stack Developer with a pen
   </ul>
 </div>
 
-
-- I'm Fabio HR Filho, a Full Stack Developer with a passion for building web applications and exploring new technologies. I have experience in various tech stacks, including MERN (MongoDB, Express, React, Node.js), and I'm currently learning more about golang language and your ecosystem.
-
-<!--Intro start-->
-- 🔭 I’m currently working on **Golang, React, Next, Nodejs, MySQL, MariaDB, MongoDB**
-<!--Intro end-->
-
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
