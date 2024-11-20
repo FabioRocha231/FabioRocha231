@@ -18,13 +18,6 @@ I am driven by challenges, and each project fuels my desire to overcome obstacle
 ### 📫 Let's Connect!
 If you're seeking a dynamic and forward-thinking Full Stack Developer with a penchant for innovation, I would be thrilled to collaborate with your team and contribute to your success. Let's create something extraordinary together!
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
