@@ -1,98 +1,116 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!--h1 without bottom border-->
-## Hi there! 👋 I'm Fabio HR Filho, a Full Stack Developer 🚀
+## Hi there 👋 I'm Fabio HR Filho  
+### Full Stack Software Engineer • Web & Backend 🚀
 
-I have a passion for building web applications and exploring new technologies. With a solid background in various tech stacks, including **MERN (MongoDB, Express, React, Node.js)**, I've honed my expertise to deliver efficient, robust, and user-centric solutions.
+I'm a Full Stack Developer focused on building **scalable, high-performance web applications** with clean architecture and modern tooling.  
+My background spans **JavaScript/TypeScript ecosystems** and I’m currently deepening my expertise in **Go (Golang)** for backend and distributed systems.
+
+I care deeply about **code quality, performance, maintainability, and real business impact**.
+
+---
 
 ### 🔭 Current Focus
-I'm currently delving into the fascinating world of **Go** (Golang) and its extensive ecosystem. Embracing a relentless pursuit of knowledge, I'm dedicated to staying at the forefront of innovation, incorporating the latest tools and methodologies into my work.
+- Backend development with **Go (Golang)**
+- Scalable APIs and clean architecture
+- Modern frontend with **React & Next.js**
+- Performance, DX and system design
 
-### 💪 Collaborative Team Player
-I thrive in collaborative environments, valuing teamwork and effective communication. My experience in cross-functional teams has taught me the importance of adaptability and open-mindedness, enabling me to create seamless and harmonious partnerships with colleagues and clients.
+---
 
-### 🚀 Driven by Challenges
-I am driven by challenges, and each project fuels my desire to overcome obstacles and deliver solutions that exceed expectations. My dedication to refining my skills and staying up-to-date with the ever-changing tech landscape empowers me to make a meaningful impact in the digital world.
+### 🤝 Collaboration & Mindset
+I work well in **collaborative, cross-functional teams**, valuing:
+- Clear communication  
+- Ownership and accountability  
+- Continuous improvement  
 
-### 📫 Let's Connect!
-If you're seeking a dynamic and forward-thinking Full Stack Developer with a penchant for innovation, I would be thrilled to collaborate with your team and contribute to your success. Let's create something extraordinary together!
+I adapt fast, learn constantly, and enjoy solving complex problems.
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+---
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
+### 🚀 What Drives Me
+Challenges.  
+Each project is an opportunity to build something **better, faster, and more reliable** than before — always aligned with real user needs.
+
+---
+
+### 📫 Let’s Connect
+If you're looking for a **results-oriented Full Stack Engineer** with strong backend ambition, let’s talk.
+
+---
+
+## 🧠 Confusion is Part of Programming
+
+<!-- GitHub Stats -->
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=FabioRocha231&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FabioRocha231&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FabioRocha231&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=FabioRocha231&show_icons=true&theme=dark&hide_border=true" 
+        alt="GitHub Stats" 
+      />
+      <br/>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=FabioRocha231&theme=dark&hide_border=true" 
+        alt="GitHub Streak" 
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRocha231&layout=compact&theme=dark&hide_border=true&langs_count=10" 
+        alt="Top Languages" 
+      />
+    </td>
+  </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=FabioRocha231&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+---
 
+## 🏆 GitHub Trophies
 
-</p>        
-<!--- stats (end) -->
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=FabioRocha231&theme=radical&row=1&column=7&no-frame=true&no-bg=true" 
+    alt="GitHub Trophies"
+  />
+</p>
 
+---
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+## 🛠️ Technologies & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,bootstrap,css,tailwind,materialui,nodejs,express,figma,vercel,webpack,babel,vite,redux,jest,git,golang,docker,firebase,github,idea,linux,md,mongodb,mysql,postgres,bash,postman,py,django,discord,vscode&perline=14" />
+    <img 
+      src="https://skillicons.dev/icons?i=go,react,nextjs,ts,js,nodejs,express,docker,postgres,mongodb,mysql,redis,firebase,git,github,linux,bash,html,css,tailwind,bootstrap,figma,vercel,vite,webpack,jest,postman,python,django,vscode&perline=14" 
+    />
   </a>
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## 🤝 Connect With Me
 
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/fhrfilho/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/fhrfilho/" target="_blank">
+    <img 
+      src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" 
+      alt="LinkedIn" 
+      height="48" 
+      width="48" 
+    />
+  </a>
 </p>
 
+---
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=FabioRocha231&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+<p align="center">
+  <img 
+    src="https://visitcount.itsvg.in/api?id=FabioRocha231&icon=3&color=6" 
+    alt="Profile Views" 
+  />
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
