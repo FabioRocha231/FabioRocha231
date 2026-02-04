@@ -90,7 +90,7 @@ If you're looking for a **results-oriented Full Stack Engineer** with strong bac
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fhrfilho/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabiohrfilho/" target="_blank">
     <img 
       src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" 
       alt="LinkedIn" 
