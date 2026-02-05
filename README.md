@@ -70,7 +70,7 @@ If you're looking for a **results-oriented Full Stack Engineer** with strong bac
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  ![](https://github-trophies.vercel.app/?username=FabioRocha231)
+  <img src="https://github-trophies.vercel.app/?username=FabioRocha231" />
 </p>
 
 ---
